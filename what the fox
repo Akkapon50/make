@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>page one</title>
+</head>
+<body>
+	<a href="https://www.w3schools.com">Visit W3Schools</a>
+	<img src="img\101.jpg">
+	<img src="img\101.jpg" width="500" height="600">
+	<p style="color: red;">This is tag color</p>
+	<p title="I'm a tooltip">This is a paragraph</p>
+	<hr>
+	<br>
+	<h1 style="font-size= 60px;">Heading one</h1>
+	<p>This is <br> paragraph <br> with line breaks.</p>
+	<h1 style="background-color: red;">This is background color</h1>
+	<p style="background-color: tomato;">This is background color same just is paragraph 'p'</p>
+	<h1 style="color: blue;">word color</h1>
+	<h1 style="font-family=vardana;">font ngi</h1>
+	<h1 style="font-size=20px;"></h1>
+	<h1 style="text-align:center;">Hello World!</h1>
+	<p style="text-align: center;">Lorem jk</p>
+	<b>This text is bold</b>
+	<strong>This text is important!</strong>
+	<i>This text is italic</i>
+	<em>This text is emphasized</em>
+	<small>This is some smaller text.</small>
+	<p>Do not forget to buy <mark>mike</mark> today.</p>
+	<p>My favorite color is <del>blue</del> red.</p>
+	<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+	<p>this is <sub>subscripted</sub> text.</p>
+	<p>WWF's goal is toL <q>build a future where people live in harmony wiht nature.</q></p>
+	<p>The <abbr title="World Headlth Organization">WHO</abbr> was founded in 1949.</p>
+	<address>
+		Written by John Doe.<br>
+		Visit us at:<br>
+		Example.com<br>
+		Box 564, Disneyland<br>
+		USA
+	</address>
+	<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+</body>
+</html>
